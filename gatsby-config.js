@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Mohan`,
-    description: `A personal portfolio site built with GatsbyJS`,
-    author: `mohan.tech`,
+    title: `Ben's Portolio`,
+    description: `My personal portfolio made with Gatsby`,
+    author: `Ben Smith`,
     footerLinks: [
       {
         name: "Facebook",

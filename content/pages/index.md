@@ -1,9 +1,7 @@
 ---
 page: Index
-heading: Hello There!
+heading: Hey There!👋
 ---
-I’m Mohan and I love creating useful stuff. I’m a Passionate
-Front-end Developer, UI/UX Enthusiast, AndroidGeek, FirebaseLover
-and Web Developer. Currently, I’m an Undergrad in Computer
-Science.
-
+I'm Ben Smith. I am a front-end web developer who specializes in
+front end framesworks such as react. I am able to take any design
+and create it into a beautiful functioning interface.
