@@ -69,3 +69,4 @@ npm run build
 Copy the content of the `public` folder to your webhost or use a website like Netlify which automates that for you.
 
 **Attention:** You also need to edit `static/robots.txt` to include your domain!
+# personal_portfolio
